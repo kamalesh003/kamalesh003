@@ -18,4 +18,7 @@ Welcome to my GitHub! I'm passionate about building impactful AI solutions and c
 
 ![Kamalesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalesh003&show_icons=true&hide_title=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh003&layout=compact)
+
+
 
