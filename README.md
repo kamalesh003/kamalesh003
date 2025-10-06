@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img width="498" height="322" alt="image" src="https://github.com/user-attachments/assets/7c90531e-b7dd-4f2c-8b58-22728cc67f0e" />
 
 
 **AI & ML Engineer**
