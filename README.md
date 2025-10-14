@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about building impactful AI solutions and c
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vyper](https://img.shields.io/badge/Vyper-1C1C1C?style=for-the-badge&logoColor=white)
+
 
 #### NLP & LLM Stack
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FB8C00?style=for-the-badge&logo=huggingface&logoColor=white)
