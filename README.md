@@ -41,9 +41,7 @@ Welcome to my GitHub! I'm passionate about building impactful AI solutions and c
 
 
 
-### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh003&layout=compact)
 
 
 <img width="1152" height="648" alt="design1" src="https://github.com/user-attachments/assets/9fd13822-bbac-407f-ae28-7ffd14d35ec0" />
